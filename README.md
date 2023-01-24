@@ -1,6 +1,6 @@
-My web page URL: https://mvroomen.github.io/portfolio/
+My web page URL (the one ready for presenting): https://mvroomen.github.io/portfolio/
 
-This repository's url: https://github.com/mvroomen/portfolio/
+This repository's URL (the one with the code): https://github.com/mvroomen/portfolio/
 
 # About me
 Hello! I'm a former educator back on the other side of the classroom.  Here is where I'll post my learning progress and current projects.  Happy learning :)
@@ -11,7 +11,9 @@ Over the course of Telling Stories with Data, I hope to take my love of storytel
 # Portfolio
 ## Soon to be published:
 Assignment: Visualizing overnment Debt
+
 Assignment 3&4: Critique by Design 
+
 Final project: Part I, Part II, & Part III
 
 # That's all for now folks!  
