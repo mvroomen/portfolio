@@ -17,9 +17,9 @@ Assignment 3&4: Critique by Design
 Final project: Part I, Part II, & Part III
 
 # That's all for now folks!  
-## Below, check out this helpful guide my professor included in this reposity template!
+## Below, check out this helpful guide my professor included in this repository template!
 
-# How to add an assingment and associated links!
+## How to add an assingment and associated links!
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
