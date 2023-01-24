@@ -1,34 +1,23 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+My web page URL: https://mvroomen.github.io/portfolio/
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This repository's url: https://github.com/mvroomen/portfolio/
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I'm a former educator back on the other side of the classroom.  Here is where I'll post my learning progress and current projects.  Happy learning :)
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Over the course of Telling Stories with Data, I hope to take my love of storytelling to a whole new level by finally learning how to create the types of visualizations that I've encountered over the past few decades!  After I graduate, I hope to use the power of data stories to help myself learn more about the world and to share what I've learned efficiently and effectively with others. (And if I get to make a few silly visualizations that put a smile on someone's face, all the better!) 
 
 # Portfolio
+## Soon to be published:
+Assignment: Visualizing overnment Debt
+Assignment 3&4: Critique by Design 
+Final project: Part I, Part II, & Part III
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# That's all for now folks!  
+## Below, check out this helpful guide my professor included in this reposity template!
 
+# How to add an assingment and associated links!
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
@@ -42,7 +31,7 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Other stuff you can do
 
 ### Changing text
 
