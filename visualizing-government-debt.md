@@ -6,7 +6,6 @@ Below you'll see four visualizations, one made using the OECD website, two made 
 ### Data Visualization 1:  OECD Bar Graph - Total Government Debt as a Percentage of GDP for various nations
 <iframe src="https://data.oecd.org/chart/6Y2C" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Y2C" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
-
 ### Data Visualization 2:  Grid of Charts - Debt-to-GDP ratio for various nations
 <div class="flourish-embed flourish-chart" data-src="visualisation/12587103"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
