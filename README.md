@@ -9,7 +9,7 @@ Hello! I'm a former educator back on the other side of the classroom.  Here is w
 Over the course of Telling Stories with Data, I hope to take my love of storytelling to a whole new level by finally learning how to create the types of visualizations that I've encountered over the past few decades!  After I graduate, I hope to use the power of data stories to help myself learn more about the world and to share what I've learned efficiently and effectively with others. (And if I get to make a few silly visualizations that put a smile on someone's face, all the better!) 
 
 # Portfolio
-## Technical Details with Publishing:
+## Now Published:
 ## Assignment: [Visualizing Government Debt](dataviz2)
 
 ## Soon to be published:
