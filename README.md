@@ -10,7 +10,7 @@ Over the course of Telling Stories with Data, I hope to take my love of storytel
 
 # Portfolio
 ## Technical Details with Publishing:
-## Assignment: [Visualizing Government Debt](dataviz2.md)
+## Assignment: [Visualizing Government Debt](dataviz2)
 
 ## Soon to be published:
 Assignment: Visualizing Government Debt
