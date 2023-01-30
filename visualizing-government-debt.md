@@ -9,11 +9,7 @@ Below you'll see four visualizations, one made using the OECD website, two made 
 ### Data Visualization 2:  Grid of Charts - Debt-to-GDP ratio for various nations
 <div class="flourish-embed flourish-chart" data-src="visualisation/12587103"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Data Visualization 3:  Visualizing Debt-to-GDP from 1995 to 2019 for countries that were EU members as of 1995
+### Data Visualization 3:  An Outlier Extends from the Olive Branch:  Greece's Growing Debt-to-GDP Ratio Compared to its fellow 1995 EU Members
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596398"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/12596191"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/12591258"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ### Coming soon...Data Visualization 4:  Testing out Tableau
