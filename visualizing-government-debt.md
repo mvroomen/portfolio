@@ -9,7 +9,7 @@ Below you'll see four visualizations, one made using the OECD website, two made 
 ### Data Visualization 2:  Grid of Charts - Debt-to-GDP ratio for various nations
 <div class="flourish-embed flourish-chart" data-src="visualisation/12587103"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Data Visualization 3:  A race to the middle?  Visualizing Debt-to-GDP ratio for various nations from 1995 to 2019
+### Data Visualization 3:  Visualizing Debt-to-GDP from 1995 to 2019 for countries that were EU members as of 1995
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596398"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12596191"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
