@@ -1,4 +1,4 @@
-# Visualizing Government Debt
+## Visualizing Government Debt
 Below you'll see four visualizations, one made using the OECD website, two made using OECD data and Flourish, and hopefully, one made using Tableau.
 
 ### Data Visualization 1:  OECD Bar Graph - Total Government Debt as a Percentage of GDP for various nations
