@@ -11,10 +11,8 @@ Over the course of Telling Stories with Data, I hope to take my love of storytel
 # Portfolio
 ## Now Published:
 ### Assignment: [Visualizing Government Debt](visualizing-government-debt)
-
+### Demo: [Tableau Practice Demo](tableaudemo.md)
 ## Soon to be published:
-Assignment: Visualizing Government Debt
-
 Assignment 3&4: Critique by Design 
 
 Final project: Part I, Part II, & Part III
