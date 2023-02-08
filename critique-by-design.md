@@ -24,7 +24,10 @@ Stay warm!
 
 # Alternate Redesign Ideas
 ## Line Chart Race
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 ## Grid Line Charts
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
