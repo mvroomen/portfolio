@@ -37,9 +37,9 @@ In my sketch, I attempted to fix many of the areas I identified above.
 
 First, I rewrote the title of the graph to convey the “big idea” the graph was intending to convey, which alters the graph’s role to “supporting evidence to the “big idea, rather than attempting to convey the big idea all on its own.  I did this by taking the information conveyed in the “thought bubble” to inspire my new title “High Corn Prices, High Fertilizer Prices Follow”.
 
-Second, I eliminated the data that went beyond August 2021, since the corn price data was only available until then.  Now, all the lines end in the same time period and the reader isn’t left wondering why the corn line stops before the others.  This also led me to eliminate those percentage change notes from the “static pop-up”.
+Second, I eliminated the data that went beyond August 2021, since the corn price data was only available until then.  Now, all the lines end in the same time period and the reader isn’t left wondering why the corn line stops before the others.  This also led me to eliminate those percentage change notes from the “static pop-up”.  Similarly, I eliminated the names of the cities whose market prices were used since I think this is common knowledge.
 
-Third, I reduced the tick marks on the X-axis and Y-axes.  Since we are concerned about trends, we don’t need precise data points.  Therefore, reducing the amount of tick marks reduces clutter on the graph without causing any confusion or risking that the reader will misinterpret the data.  While doing that, I added a label to the right-hand y-axis conveying the price of corn per bushel.
+Third, I reduced the tick marks on the X-axis and Y-axes.  Since we are concerned about trends, we don’t need precise data points.  May and November correspond roughly with when fertilizer is applied so I decided to use them as my 6-month tick markers.  Reducing the amount of tick marks reduces clutter on the graph without causing any confusion or risking that the reader will misinterpret the data.  While doing that, I added a label to the right-hand y-axis conveying the price of corn per bushel.
 
 Fourth, I reduced the number of gridlines and changed the colors of the corn and fertilizers lines to four more complimentary colors.  For the rest of the graph, I kept it gray, including eliminating the bright green box and replacing it with more intense lines for that section of the graph and a simple gray dotted line to note when July 2020 begins.  My goal with these changes was simply to reduce how much was going on visually with the graph.
 
@@ -76,6 +76,8 @@ Then, I made some additional changes to improve the graph:
 
 First, I added “Q3 2020” to the title, to immediately indicate where the reader should look for the main part of the story.  Next, I added and color coded the caption with the information on the percentage change price between July 2020 and August 2021.
 
+Lastly, I added the “reference bar”, which is the gray bar covering July 2020 to July 2023 to highlight the portion of time of interest.  I had originally wanted to make that section of the lines more intense, but that wasn’t an option in Tableau.
+
 To be perfectly honest, simply figuring out how to correctly make a dual axes graph in Tableau, these were all the changes I was able to implement before our Monday class student feedback section.
 
 In Progress Tableau Design Feedback:
@@ -99,6 +101,17 @@ Think about making the lines more transparent so they don’t get lost when they
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+For my final version, I was able to make some final edits on my caption, title, and axes labels, as well as implement the incredibly helpful suggestions of my classmates.
+
+For my title and caption, I rephrased how I expressed the main ideas to make the story clearer.
+Next, I reordered the legend to make sure “Corn” was at the top, followed by the three fertilizers.
+Then, I changed the colors of the three fertilizers as suggested by my classmates, which really made “Corn” pop as the main character of the story.
+Then, I color coded the caption to match the legend, which creates a nice uniformity to the graph.  (I did ask a few people if the word “Corn” was legible in yellow and everyone said yes, but I am still unsure.)
+After that, I modified the Y-axes to start at $200 and $2.00.  (Unfortunately, no matter what I do in Tableau, I cannot get the decimal places to stay how I’ve set them once I exit Tableau Desktop).
+Finally, I fixed the fertilizer price Y-axis label to “Fertilizer Price Per Ton” to match the “Corn Price Per Bushel” on the other Y-axis, which is easier to read and remember.
+
+Overall, I’m really happy with my redesign of the graph.  Despite some limitations in my Tableau skills limiting my final product, I think the redesigned graph is easier for the reader to understand.  It is less cluttered due to the reduction in bright colors, grid lines, and excess tick marks, and my new title and caption tell the story more effectively than the text features on the original graph. 
 
 ## Additional/Alternate Redesign Ideas
 ### (These were not critiqued by others)
