@@ -2,13 +2,13 @@
 
 # Critique By Design
 
-# Original Graph
+## Original Graph
 ![HV 59 graph](https://user-images.githubusercontent.com/123427692/216985221-0fd15825-5856-4e0d-95d4-864496dc703c.png)
 
-# Sketched Wireframe
-## Technical Difficulties - coming soon!
+## Sketched Wireframe
 
-# Tableau Redesign in Progress
+
+## In Progress Tableau Redesign
 <div class='tableauPlaceholder' id='viz1675690325588' style='position: relative'><noscript><a href='#'><img alt='Q3 2020 Sees High Corn Prices, High Fertilizer Prices Follow ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Inprogress-CritiquebyDesignGraph&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Inprogress-CritiquebyDesignGraph&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Inprogress-CritiquebyDesignGraph&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1675690325588');                    
@@ -19,14 +19,14 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-# Tableau Final Redesign
+## Final Tableau Redesign
 
-# Additional/Alternate Redesign Ideas
+## Additional/Alternate Redesign Ideas
 ### (These were not critiqued by others)
-## Grid of Line Charts
+### Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-## Line Chart Race
+### Line Chart Race
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
