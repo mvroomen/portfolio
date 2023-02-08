@@ -68,6 +68,27 @@ The two Y-axes should match better - why is $800 at $6?
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Once I had my sketch feedback, I made my first attempt at a version of the graph in Tableau that implemented the feedback I received, however, as you’ll notice, I forgot a few and made a few typos.
+
+Simply by using Tableau, a fair amount of the suggestions sort of automatically took place.  The legend became color coded, the Y-axes roughly matched each other, and the tick marks on all axes simplified themselves.
+
+Then, I made some additional changes to improve the graph:
+
+First, I added “Q3 2020” to the title, to immediately indicate where the reader should look for the main part of the story.  Next, I added and color coded the caption with the information on the percentage change price between July 2020 and August 2021.
+
+To be perfectly honest, simply figuring out how to correctly make a dual axes graph in Tableau, these were all the changes I was able to implement before our Monday class student feedback section.
+
+In Progress Tableau Design Feedback:
+I received helpful feedback/critiques and Tableau assistant from three of my classmates.  Having a class feedback session was incredibly helpful because we had a good understanding, as a group, of what Tableau was capable of.
+
+The main takeaways from the feedback were:
+The yellow for corn is an excellent choice, but the other colors are too busy and could be changed into “background colors”.
+The title is helpful and informative.
+The dual-axes are effective, but neither need to start at zero (they then helped me figure out how to change them correctly!)
+The legend is great, but doesn’t need the “measure names” title.
+The gray reference box is incredibly effective (I helped a classmate find the menu to make one!)
+Think about making the lines more transparent so they don’t get lost when they cross each other.
+
 ## Final Tableau Redesign
 <div class='tableauPlaceholder' id='viz1675826340324' style='position: relative'><noscript><a href='#'><img alt='Q3 2020 Sees High Corn Prices, High Fertilizer Prices Follow ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final-CritiquebyDesignGraph&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Final-CritiquebyDesignGraph&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fi&#47;Final-CritiquebyDesignGraph&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
