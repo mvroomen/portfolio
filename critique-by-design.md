@@ -1,7 +1,6 @@
 | [home page](https://mvroomen.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Coming soon!
-Stay warm!
+# Critique By Design
 
 # Original Graph
 ![HV 59 graph](https://user-images.githubusercontent.com/123427692/216985221-0fd15825-5856-4e0d-95d4-864496dc703c.png)
@@ -22,12 +21,12 @@ Stay warm!
 
 # Tableau Final Redesign
 
-# Alternate Redesign Ideas
+# Additional/Alternate Redesign Ideas
+### (These were not critiqued by others)
+## Grid of Line Charts
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Line Chart Race
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-
-## Grid Line Charts
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
