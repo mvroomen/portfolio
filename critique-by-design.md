@@ -76,6 +76,6 @@ The X-axis and Y-axis on the left are too busy.  The both could see fewer data p
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-### Line Chart Race
+### Line Chart Race 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
