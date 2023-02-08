@@ -33,6 +33,30 @@ The X-axis and Y-axis on the left are too busy.  The both could see fewer data p
 ## Sketched Wireframe
 ![Sketch](https://user-images.githubusercontent.com/123427692/217418937-2ee87a59-6439-49ae-9e9e-6ca89346ef2a.jpg)
 
+In my sketch, I attempted to fix many of the areas I identified above.  
+
+First, I rewrote the title of the graph to convey the “big idea” the graph was intending to convey, which alters the graph’s role to “supporting evidence to the “big idea, rather than attempting to convey the big idea all on its own.  I did this by taking the information conveyed in the “thought bubble” to inspire my new title “High Corn Prices, High Fertilizer Prices Follow”.
+
+Second, I eliminated the data that went beyond August 2021, since the corn price data was only available until then.  Now, all the lines end in the same time period and the reader isn’t left wondering why the corn line stops before the others.  This also led me to eliminate those percentage change notes from the “static pop-up”.
+
+Third, I reduced the tick marks on the X-axis and Y-axes.  Since we are concerned about trends, we don’t need precise data points.  Therefore, reducing the amount of tick marks reduces clutter on the graph without causing any confusion or risking that the reader will misinterpret the data.  While doing that, I added a label to the right-hand y-axis conveying the price of corn per bushel.
+
+Fourth, I reduced the number of gridlines and changed the colors of the corn and fertilizers lines to four more complimentary colors.  For the rest of the graph, I kept it gray, including eliminating the bright green box and replacing it with more intense lines for that section of the graph and a simple gray dotted line to note when July 2020 begins.  My goal with these changes was simply to reduce how much was going on visually with the graph.
+
+Fifth, to continue reducing how much was going on with the graph, I moved the line labels and the “static pop-up”  into a legend below the graph.  This makes the graph easier to read by not cluttering the graph itself.
+
+Sketch Feedback:
+I received helpful feedback/critiques from: two adults in their 60s, one adult in their 20s, and two adults in their 30s  (All work with graphs, none have extensive data viz backgrounds)
+
+The main takeaways from the feedback were:
+The color palette is simple and the yellow for corn is an excellent choice.
+A line graph makes sense - I don’t think any other graph would work.
+The title is good, but it’s not easy enough to tell that it starts in July 2020.
+The “Dollars Per Ton” doesn’t match the “Corn Price Per Bushel” in form.
+The legend and caption should be color coded and in a more logical order.
+The two Y-axes should match better - why is $800 at $6?
+“You will not be able to recreate the X-axis the way you have it easily”
+
 ## In Progress Tableau Redesign
 <div class='tableauPlaceholder' id='viz1675690325588' style='position: relative'><noscript><a href='#'><img alt='Q3 2020 Sees High Corn Prices, High Fertilizer Prices Follow ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Inprogress-CritiquebyDesignGraph&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Inprogress-CritiquebyDesignGraph&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Inprogress-CritiquebyDesignGraph&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
