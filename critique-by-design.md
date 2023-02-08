@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mvroomen.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Coming soon!
 Stay warm!
@@ -19,3 +19,12 @@ Stay warm!
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+# Tableau Final Redesign
+
+# Alternate Redesign Ideas
+## Line Chart Race
+<div class="flourish-embed flourish-chart" data-src="visualisation/12680631"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Grid Line Charts
+<div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
