@@ -12,22 +12,37 @@ The graph has several strengths and areas with room for improvement, but overall
 
 Strengths:
 The dual y-axes allow the graph to successfully convey both the corn price and fertilizer prices.
+
 The features of the graph are fairly clear and easy to read
+
 The green box highlights the focal point of the story
+
 Color coding is used to differentiate between the various fertilizers and corn
+
 The “static pop-up” conveys the percentage change for the important period of time
+
 Nothing in the graph appears to be attempting to mislead the reader, nor is anything unclear in such a way that the reader is likely to come to wrong conclusions due to design
 
 Areas with room for improvement:
+
 (Note: to avoid being redundant, I address my fixes below my sketch)
+
 The colors, as well as the intense grid lines, are very intense and distract from the message of the graph by adding unnecessary busyness
+
 The green box, although effective, could be improved through shading the lines or that section of the graph.
+
 Having the line labels sort of randomly on the graph can be slightly confusing and distracts from the main message of the graph.
+
 The Y-axis on the right is lacking a label telling the reader it represents corn price
+
 The “thought bubble” that says “Corn and Fertilizer Prices Rise!” conveys the main idea of the graph better than the title “Fertilizer and Corn Prices: January 2018-October 15, 2021”, which just tells the reader, in the most literal sense, what they are looking at
+
 The “static pop-up” conveys too much information by having two sets of percentage changes
+
 The corn data ends prior to the fertilizer data, which can potentially confuse the reader
+
 Those who know enough to know why the fertilizers are labeled with (Midwest) and (Tampa), which indicate the location the pricing data is pulled from, probably don’t need that information on the graph, because they know the key “pricing” locations for these products
+
 The X-axis and Y-axis on the left are too busy.  The both could see fewer data points.
 
 ## Sketched Wireframe
