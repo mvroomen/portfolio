@@ -115,6 +115,15 @@ Overall, I’m really happy with my redesign of the graph.  Despite some limitat
 
 ## Additional/Alternate Redesign Ideas
 ### (These were not critiqued by others)
+
+In order to experiment with more graph types, I decided to try additional graph types in Flourish.  
+
+For both charts, I changed the unit for Corn to price per 100 bushels to better match the prices of the fertilizer since I couldn’t do a dual y-axis (as far as my exploration of Flourish suggested).
+
+In the grid lines chart, I added a little color back to the fertilizer lines since the yellow still makes the corn “pop”.  The grid lines are a very effective way to show that the four products followed the same general trend.  Since I couldn’t easily highlight the period from July 2020 to August 2021, I left the caption off.
+
+In the Line Chart Race, the trends really come to life!  It’s great to be able to see that the four items were fairly close together around the $270-420 range and then by the end, they had all climbed to the $588-658 range together.  After seeing this graph, I started wondering if I should have changed the corn units to per 100 bushels and used one y-axis all along.
+
 ### Grid of Line Charts
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/12680859"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
