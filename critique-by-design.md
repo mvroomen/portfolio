@@ -3,7 +3,11 @@
 # Critique By Design
 
 ## Original Graph
+The original graph was created for use by The Fertilizer Institute, a trade association in Washington D.C. to address the supply-side explanation for the increasing price of fertilizer in late 2021.  The US corn crop uses about 50% of the fertilzier supply, meaning that fertilzer demand is heavily correlated with corn prices.  As corn prices increase, more farmers plant corn and therefore demand more fertilizer, therefore, causing fertilizer prices to increase.  At the same time, when farmers plant more corn, they are often switching land from growing soybeans or wheat to corn, lowering the supply of soybeans/wheat, and therefore increasing their prices, which kicks of the same increase in price and higher demand for fertilizer as explained for corn.  The graph aims to provide price trend data to support this story.
+
 ![HV 59 graph](https://user-images.githubusercontent.com/123427692/216985221-0fd15825-5856-4e0d-95d4-864496dc703c.png)
+
+
 
 ## Sketched Wireframe
 ![Sketch](https://user-images.githubusercontent.com/123427692/217418937-2ee87a59-6439-49ae-9e9e-6ca89346ef2a.jpg)
