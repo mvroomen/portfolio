@@ -28,8 +28,8 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+|  Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands   |  Production Statistics for the Limberg Mines from 1847 until 1975            |
+| De Mijnen |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
 |      |     |             |
 
 # Method and medium
