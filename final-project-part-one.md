@@ -25,7 +25,7 @@ Text here...
 |------|-----|-------------|
 |  Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands   |  Production Statistics for the Limberg Mines from 1847 until 1975            |
 | De Mijnen |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
-|      |     |             |
+| Coal Transitions in the Netherlands  |   https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |             |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
