@@ -28,7 +28,7 @@ Text here...
 |      |     |             |
 |  Limberg Mines Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands   |  Production Statistics for the Limberg Mines from 1847 until 1975            |
 | De Mijnen (The Mines) |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
-| Coal Transitions in the Netherlands  |   https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |             |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.
-
+| Coal Transitions in the Netherlands  |   https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.
+           |  
 # Method and medium
 To complete my final project, I plan to use either Storyboard or ESRI’s Story Maps feature depending on the data visualizations that make it into my final project.  First, I will work on testing and building my data visualizations and compiling my supporting photos, videos, etc.  Once I have that step complete and feel confident about my final design, I will build out my story using Storyboard, which I’m less familiar with, or Story Maps, which I have experimented with in GIS.  Lastly, I plan to use classroom critiques and the remaining classes to gain a better understanding of the pros and cons of both Storyboard and Story Maps so I’ll know how to choose the best fit for my data story.
