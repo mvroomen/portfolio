@@ -70,6 +70,7 @@ To fully provide context, I will be supplementing this data with
 -	Supplemental data from several research papers that provide information on displaced workers, workers who transitioned from mining to retirement, etc.
 
 Lastly, I plan to add personal family anecdotes and photos (if available) to help bring the story to life and ease the reader through the story as much as possible.
+
 <!--
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 -->
