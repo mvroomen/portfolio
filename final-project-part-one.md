@@ -4,8 +4,8 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
 -->
-
-## Recipe for Resilience:  Lessons from Limburg
+# Final Project Part I
+# Recipe for Resilience:  Lessons from Limburg
 
 Note:  Formal citations pending – still figuring out how to do create a references section in Github.
 
@@ -19,7 +19,7 @@ Using mining statistics records, employment records from the transition, previou
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 -->
 
-## Project Structure Outline:
+# Project Structure Outline:
 
 I hope to educate people on an example of what a transition into, through, and away from coal mining can look like through the lens of my family.  First, I plan to detail how quickly coal mining became the dominant industry in Limburg, the region my family was from in the Netherlands, and the impact it had on many families, including the accidental death of my great-grandfather in 1936.  Next, I plan to communicate that industries like coal can quickly become irrelevant when the next big thing, namely oil and gas, make them no longer profitable.  Finally, I will discuss the steps Limburg went through to successfully become an economy no longer reliant on coal, the effects of its transition on residents, and its eventually return to document its mining history in the early 2000s.
 
@@ -72,14 +72,27 @@ Lastly, I plan to add personal family anecdotes and photos (if available) to hel
 <!--
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 -->
+
+| Name | URL | Description |
+|------|-----|-------------|
+|  The OECD website    |  https://data.oecd.org/netherlands.html   |  The OECD website contains several macroeconomic datasets on the Dutch economy from 1961 on.  I plan on using the GDP growth rate data.   |
+|  The Aftermath of the Closure of the Dutch Coal Mines in South Limburg:Regional and Economic and Social Reconstruction  | https://studenttheses.universiteitleiden.nl/access/item%3A2700556/view   |  This case study from Maastricht University provides context and relevant data of the post-mine closure period.   |
+|  Dutch Coal Mining in the Papers| https://studenttheses.uu.nl/handle/20.500.12932/38772?show=full |  This comparative media study from the University of Utrecht provides contextual information on the sociocultural relationship Limburg had with mining. |
+| Limburg Mines Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands  |  Production Statistics for the Limberg Mines from 1847 until 1975  |
+| De Mijnen (The Mines) |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
+| Coal Transitions in the Netherlands  | https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.  | 
+
+<!--
 | Name | URL | Description |
 |------|-----|-------------|
 | The OECD website | https://data.oecd.org/netherlands.htm  | The OECD website contains several macroeconomic datasets on the Dutch economy from 1961 on.  I plan on using the GDP growth rate data. |
 | The Aftermath of the Closure of the Dutch Coal Mines in South Limburg:Regional and Economic and Social Reconstruction | https://studenttheses.universiteitleiden.nl/access/item%3A2700556/view | This case study from Maastricht University provides context and relevant data of the post-mine closure period. |
+Had to replace the link below because it was breaking the code and distorting the table!
 | Dutch Coal Mining in the Papers | https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38772/KvW%20Thesis%20Coal%20Media%2018-01-2021%201.2.pdf?sequence=1 |  This comparative media study from the University of Utrecht provides contextual information on the sociocultural relationship Limburg had with mining.    |
 | Limburg Mines Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands  |  Production Statistics for the Limberg Mines from 1847 until 1975  |
 | De Mijnen (The Mines) |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
 | Coal Transitions in the Netherlands  | https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.  |  
+-->
 
 # Method and medium
 To complete my final project, I plan to use either Storyhand or ESRI’s Story Maps feature depending on the data visualizations that make it into my final project.  First, I will work on testing and building my data visualizations and compiling my supporting photos, videos, etc.  Once I have that step complete and feel confident about my final design, I will build out my story using Storyhand, which I’m less familiar with, or Story Maps, which I have experimented with in GIS.  Lastly, I plan to use classroom critiques and the remaining classes to gain a better understanding of the pros and cons of both Storyhand and Story Maps so I’ll know how to choose the best fit for my data story.
