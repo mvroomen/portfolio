@@ -51,6 +51,7 @@ Sketch 2:  This sketch of a pie chart communicates that approximately 70% of wor
 Sketch 3:  My family tree containing the family members mentioned in the story.
 
 ![image](https://user-images.githubusercontent.com/123427692/219792394-8ec4ec6b-fa96-47de-b0d8-04112b0c144d.png)
+
 Note:  The second subheading needs to be changed to “Grandparents”.
 
 # The data
