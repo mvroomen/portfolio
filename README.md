@@ -33,7 +33,7 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
-<!— 
+<!-- 
 
 ---
 ## Other stuff you can do
@@ -92,7 +92,8 @@ Any of those formats will work. Here's some examples of working links:
 `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
 `[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
 
-—>
 Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
+
+-->
