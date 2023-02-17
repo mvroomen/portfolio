@@ -69,15 +69,15 @@ To fully provide context, I will be supplementing this data with
 -	Supplemental data from several research papers that provide information on displaced workers, workers who transitioned from mining to retirement, etc.
 
 Lastly, I plan to add personal family anecdotes and photos (if available) to help bring the story to life and ease the reader through the story as much as possible.
-
+<!--
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
+-->
 | Name | URL | Description |
 |------|-----|-------------|
-|  The OECD website |  https://data.oecd.org/netherlands.htm  | The OECD website contains several macroeconomic datasets on the Dutch economy from 1961 on.  I plan on using the GDP growth rate data.  |
-|  The Aftermath of the Closure of the Dutch Coal Mines in South Limburg:  Regional and Economic and Social Reconstruction    |  https://studenttheses.universiteitleiden.nl/access/item%3A2700556/view   | This case study from Maastricht University provides context and relevant data of the post-mine closure period. |
-|  Dutch Coal Mining in the Papers    | https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38772/KvW%20Thesis%20Coal%20Media%2018-01-2021%201.2.pdf?sequence=1 |  This comparative media study from the University of Utrecht provides contextual information on the sociocultural relationship Limburg had with mining.    |
-|  Limburg Mines Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands   |  Production Statistics for the Limberg Mines from 1847 until 1975  |
+| The OECD website | https://data.oecd.org/netherlands.htm  | The OECD website contains several macroeconomic datasets on the Dutch economy from 1961 on.  I plan on using the GDP growth rate data. |
+| The Aftermath of the Closure of the Dutch Coal Mines in South Limburg:Regional and Economic and Social Reconstruction | https://studenttheses.universiteitleiden.nl/access/item%3A2700556/view | This case study from Maastricht University provides context and relevant data of the post-mine closure period. |
+| Dutch Coal Mining in the Papers | https://studenttheses.uu.nl/bitstream/handle/20.500.12932/38772/KvW%20Thesis%20Coal%20Media%2018-01-2021%201.2.pdf?sequence=1 |  This comparative media study from the University of Utrecht provides contextual information on the sociocultural relationship Limburg had with mining.    |
+| Limburg Mines Production Statistics | https://www.tudelft.nl/en/ceg/about-faculty/departments/geoscience-engineering/sections/resource-engineering/links/coal-mining-in-the-netherlands  |  Production Statistics for the Limberg Mines from 1847 until 1975  |
 | De Mijnen (The Mines) |  https://www.demijnen.nl/collectie/tijdschriften-staatsmijnen  |  Issues of the Annual Reports on the State Mines from 1902 to 1975  |
 | Coal Transitions in the Netherlands  | https://coaltransitions.files.wordpress.com/2016/09/coal_nl_v04.pdf  |  This research paper presents various data of interest regarding the transition of coal workers out of the coal sector.  |  
 
