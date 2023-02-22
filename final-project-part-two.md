@@ -12,7 +12,7 @@
 -->
 
 Link:
-[My Storthand Wireframe](https://carnegiemellon.shorthandstories.com/c323c075-7a7b-4534-81d6-db28712a289d/)
+[My Shorthand Wireframe](https://carnegiemellon.shorthandstories.com/c323c075-7a7b-4534-81d6-db28712a289d/)
 
 Since I prefer not to have post information on the internet, I opted to use a randomly generated url since Shorthand implied that would keep my Shorthand story off search engines.
  
@@ -91,6 +91,7 @@ As I mentioned above in my questions, I speak in a very circular manner.  Theref
 |     Map Improvements        |   Since my map doesn't provide context on where the Netherlands is to someone who doesn't already know, I might add a map of Europe to help orient readers.  |
 |    Throughline      |   Based on the questions I came up with, which have increased my self-awareness during this project, and the feedback I received, I plan to make sure that when reviewing my story, I look for any areas that I'm losing the throughline so I can fix them!  Similarly, I plan make sure I address the big takeaways clearly in the conclusion and may even add a call to action in the form of a question like "if you lose your job, does your government have a plan for you?.         |
 |    Use details/info with captions, images, statistics to talk instead of text as much as possible      |    Using captions, more images, and hopefully a few more statistics, I plan keep the text at a minimum an attempt to let the additional features do "as much of the talking" as possible.  Hopefully, that will allow me to tell the story thoroughly, but without my reading feeling bogged down by text.                                                                           |
+| Fix the scrolling images   | Although minor, I ended up just telling my interviewees that I couldn't get the scrolling images in my introductory section to work since I didn't want it to be a distraction. They barely seem to be moving and when they do, it's very stiff.  I'll be sure to ask about it in class, after class, or in office hours.  |
 
 As I fill in all the text descriptions, especially in the time line like parts of my story, one of my main challenges will be keeping things short and sweet.  As my interviewees reminded me, a lot of the story tells itself in the 7 out of 10 graphic and the employment chart.  My job will be to fill in the "how" using the text blubs without asking my readers to dive into the weeds of economic development with me.
 
