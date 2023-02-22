@@ -13,9 +13,8 @@ Over the course of Telling Stories with Data, I hope to take my love of storytel
 ### Assignment: [Visualizing Government Debt](visualizing-government-debt)
 ### Demo: [Tableau Practice Demo](tableaudemo.md)
 ### Assignment 3&4: [Critique by Design](critique-by-design)
-### Final Project: 
-## [Part I](final-project-part-one)
-## [Part II](final-project-part-two) 
+### Final Project: [Part I](final-project-part-one)
+### Final Project: [Part II](final-project-part-two) 
 
 ## Soon to be published:
 Final project: Part III
