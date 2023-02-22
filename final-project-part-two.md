@@ -36,9 +36,13 @@ Note:  I had originally used my story arc to conduct preliminary research with c
 
 ## The Data/Charts Updates
 Map: My theory on the map was the viewer only needed to know where Limburg was in relation to the Netherlands.  I was interested in finding out what my audience's thoughts would be on whether a reader would want more context, hence I kept the map very simple, with no scale bar, no reference to where exactly the Netherlands is, etc.
+
 Mine Map:  Since I am a dual GIS/TSWD student at the moment, I know Professor Goranson knows I can make a map, so I saved myself the time and used a prototype exisiting map to see if my interviewees appreciated it before taking the time to make it myself.  Since mapmaking is a form of a stretch goal for this course, I am under the assumption that is acceptable for Part II of the project.
+
 GDP/Mine Production Data:  Originally, I had planned to have a graph showing GDP growth data and mine production data.  Since I was nearly convinced by disccussion with classmates that this would not only be considered too much information, but it would also be just shoving data at the story for the sake of data, I asked my interviewees about it and they also told me it was too much information.  I will not be moving forward with that data.
+
 7 out of 10:  My goal was to keep it simple and to the point and I'm hoping I succeeded!
+
 Alluvial Diagram:  I was so excited when we did the alluvial diagram in class because it unlock my ability to show the tranformation in employment between 1965 and 1972 for miners and office workers from the 11 Limburg mines!  Although I still have a few questions about fine tuning the labels, I am very happy with my first alluvial diagram.
 
 ## Interview script
