@@ -1,7 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mvroomen.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
+# Final Project Part II
+## Recipe for Recovery:  Lessons from Limberg
 
 # NOTE TO SELF:  HIDE THIS CODE ONLY AFTER YOU ARE 100% SURE THAT THE COMMIT WORKED!  DOUBLE CHECK USING INCOGNITO BROWSER!
 
@@ -10,10 +10,12 @@ Text here!
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 -->
 
-Please see the link to my storyhand below:
+Link:
 [My Storyhand Wireframe](https://carnegiemellon.shorthandstories.com/c323c075-7a7b-4534-81d6-db28712a289d/)
+
+Since I prefer not to have post information on the internet, I opted to use a randomly generated url since Shorthand implied that would keep my Shorthand story off search engines.
  
-In order to now overwhelm my critique participants, I used a combination of "lorem ipsum" text blurbs and main idea phrases to help provide minimal context when possible, such as on the timeline section.  My hope was that by focusing on the charts and overall structure, I could ensure that my narrative was sufficient, clear, and effective.
+In order to now overwhelm my critique participants, I used a combination of "lorem ipsum" text blurbs and main idea phrases to help provide minimal context, rather than my full textblurbs.  My hope was that by focusing on the charts and overall structure, I could ensure that my narrative was sufficient, clear, and effective.
 
 # User research 
 
@@ -25,6 +27,12 @@ My general target audience is lifelong learners, especially those in the US and 
 
 Because I'm aiming for a diverse audience, I've attempted to take a fairly casual, yet educational tone, based off that Dr. Henry Louis Gates, Jr. on the PBS show "Finding Your Roots".  I'm hoping to strike a balance between my audience learning something new, but not needing to have an in-depth understanding of the Netherlands, its geography, or its politics.
 
+## Finding Interviewees
+
+For my interviewees, I selected three individuals.  For my first interviewee, I selected a Dutch relative who would be able to tell me if my story is authentically representing what actually happened in a truthful, accurate, and clear manor.  Second, I selected a social science researcher who could tell me if my story flowed well, told the social science story I hoped to tell, and if I had enough evidence to support my claims in terms of context/data (at least based on the outline).  For the third individual, I selected a friend who is not very familier with social sciences, nor economic development, who knows my family is Dutch, and knows that the Netherlands is somewhere in Europe. 
+
+Note:  I had originally used my story arc to conduct prilimary research with interviewees where I sought information on creating a similar timeline on coal mining in Southwestern Pennsylvania.  Based on that feedback, which suggested I keep the story focused on Limberg, I was back to square one in terms of next steps.  However, after the wonderful feedback of my classmates in our in person critique session on Monday, February 21, I created a brand new wireframe based on an entirely new way of presenting my story!  Luckily, with the addition of Tuesday, I was able to conduct my interviews, receive excellent feedback, and plan for my next steps!
+
 ## Interview script
 <!--
 > List the goals from your research, and the questions you intend to ask. 
@@ -32,30 +40,42 @@ Because I'm aiming for a diverse audience, I've attempted to take a fairly casua
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Is it a story? |  What is the most memorable element of the wireframe?  If you had to tell someone what you learned in one sentence, what would you say?  |
+| Clarity |  If possible, can you note if and when you got confused?  How could that element be made more clear?  Is there anything "unfixable"?   |
+|  Quality of Evidence  |  Knowing that the text will be primarily providiing the story, not adding stastistics or providing additional geographic/economic context, is there anything you would add?  Do the supporting images and charts help provide evidence and context for the story?  Are their any images or charts that feel uneccessary? |
+|  Rendundencies  | Since you know me, you know my way of telling stories and communicating is often quite circular, or in other words, I can be redundent.  Are there any areas of my Shorthand that you think appear redundent/unnessary/ would make you want to scroll past of stop reading?  What, if anything, should I cut and why? |
 
+<!--
 | Goal | Questions to Ask |
 |------|------------------|
 |      |                  |
 |      |                  |
 |      |                  |
-
-Text here!
+-->
 
 ## Interview findings
 <!--
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 -->
-Text here!
 
+As I mentioned above in my questions, I speak in a very circular manner.  Therefore, for each goal, I asked all of the associated questions in one long blurb.  To avoid forcing any readers of my portfolio to read those blurbs twice, I will simply list the "Goal" associated with the series of questions in the chart below.  Similarly, I used to combination of paraphrases and direct quotes to summarize the major insights from my interviews!
+
+| Questions               | Interview 1 (adult, mid-60s, Dutch) | Interview 2 (adult, early-60s, social scientist) | Interview 3 (adult, early 30s, environmental scientist) |
+|-------------------------|--------------------------------|-------------|-------------|
+| "Is it a story?" Questions      | Quote:  The Dutch went from having ads in Italy to me having work trips in Italy where I work with a Dutch man who left the Netherlands.  Paraphrase:  I think you capture nicely how the Netherlands went from being a major coal powerhouse to having no mines left in Limburg to eventual honoring their coal past.  It works.  |  Paraphrase:  The story worls well, but make sure you specify what the Dutch did between 1965 and today to make it work.  The job chart shows some of what happened, but you need to show the how"  |  Paraphrase:  I would probably tell someone that they shouldn't attach their identity to their job.  On a more serious note, I would say that this is an arguement for why a social safety net is important, especially when the "robots are coming for our jobs"     |
+| Clarity Questions |  Paraphrase:  The text is too small on the Employment graph.  I'm assuming the numbers are percentages, but I had to do the math in my head to check.  |  Same exact comments on the Employment graph; suggestion to change "Employment" to "Employment Status" |  Paraphrasing:  The only thing that's unclear right now are the details, but I'm assuming the story makes sense in that way.  At first I wasn't sure why the time periods were so uneven, but after reading through it, I get it.           |
+| Quality of Evidence Questions  |  Paraphrase:  If you find amazing data, then you can add it, but including data on the mines or the Dutch economy in general (I had previously discussed the data with this interviewee) doesn't seem necessary because it's not about the coal or the economy, it's about the people.  | Paraphrase:  Restructure the note you have on the employment status in 1972 so that you explain what you did first, then where the data is from second. Quote: "This is an awesome way to show data like this - you actually made that?" | Paraphrase:  I love the Italian ad and the newpaper headline as well as the 7 out of 10 people and"beautiful line graph thing".  Quote "Don't add statistics to add stastistics - it will make this look like a homework assignment, which I guess it technically is though..."  |
+| Redundencies Questions |  Paraphrase:  I think you have a nice balance between data and story based on the outline.  The data you are using allows the reader to put themselves in a coal miners shoes. Quote:  I'm not sure you need the mine graph - Limburg is so small it doesn't matter where the mines are. |  Paraphrase:  You need to be mindful of how long you spend on the background "exposition" information compared to the vital information.  Quote:  "Are you going to talk about World War II?  Obviously.  But if your section on the early 1900s is two sentences, don't add more to make it balanced." | Paraphrased:  If the point of this is to say that the lesson from Limburg can be applied anywhere, why are you planning on adding a GDP graph?  If the lesson is universal, than it shouldn't matter what the economy looked like.  Quote:  "Stop making me look at economics when I don't have to" |
+
+Minimum Time for next commit:  10:33
+
+<!--
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked      | Insightful feedback            |             |             |
 |                         |                                |             |             |
 |                         |                                |             |             |
-
+-->
 
 # Identified changes for Part III
 <!--
@@ -76,6 +96,4 @@ Text here!
 Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
-Text here!
