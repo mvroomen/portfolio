@@ -11,7 +11,8 @@ Text here!
 -->
 
 Please see the link to my storyhand below:
- [My Storyhand Wireframe])(https://carnegiemellon.shorthandstories.com/c323c075-7a7b-4534-81d6-db28712a289d/)
+[My Storyhand Wireframe](https://carnegiemellon.shorthandstories.com/c323c075-7a7b-4534-81d6-db28712a289d/)
+ 
 In order to now overwhelm my critique participants, I used a combination of "lorem ipsum" text blurbs and main idea phrases to help provide minimal context when possible, such as on the timeline section.  My hope was that by focusing on the charts and overall structure, I could ensure that my narrative was sufficient, clear, and effective.
 
 # User research 
