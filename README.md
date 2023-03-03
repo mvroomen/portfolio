@@ -9,13 +9,14 @@ Hello! I'm a former educator back on the other side of the classroom.  Here is w
 Over the course of Telling Stories with Data, I hope to take my love of storytelling to a whole new level by finally learning how to create the types of visualizations that I've encountered over the past few decades!  After I graduate, I hope to use the power of data stories to help myself learn more about the world and to share what I've learned efficiently and effectively with others. (And if I get to make a few silly visualizations that put a smile on someone's face, all the better!) 
 
 # Portfolio
-## Now Published:
 ### Assignment: [Visualizing Government Debt](visualizing-government-debt)
 ### Demo: [Tableau Practice Demo](tableaudemo.md)
 ### Assignment 3&4: [Critique by Design](critique-by-design)
 ### Final Project: [Part I](final-project-part-one)
 ### Final Project: [Part II](final-project-part-two) 
+### Final Project: [Part III](final-project-part-three)
 
+<!--
 ## Soon to be published:
 Final project: Part III
 
@@ -33,9 +34,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
-
-<!-- 
+Part III(final-project-part-three) 
 
 ---
 ## Other stuff you can do
