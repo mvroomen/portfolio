@@ -1,7 +1,7 @@
 | [home page](https://mvroomen.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualizing Government Debt
-Below you'll see four visualizations, one made using the OECD website and two made using OECD data and Flourish.
+Below you'll see three visualizations, one made using the OECD website and two made using OECD data and Flourish.
 
 ## Data Visualization 1:  
 ## OECD Bar Graph - Total Government Debt as a Percentage of GDP for various nations
