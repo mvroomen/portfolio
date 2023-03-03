@@ -1,3 +1,5 @@
+| [home page](https://mvroomen.github.io/portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
 My web page URL (the one ready for presenting): https://mvroomen.github.io/portfolio/
 
 This repository's URL (the one with the code): https://github.com/mvroomen/portfolio/
